@@ -1,0 +1,12 @@
+{
+  "export_job_id": "48b9c196-42d3-49af-bf1f-934bdd0cf0b1",
+  "id_short": 784475,
+  "published_at": "2026-04-13T07:51:07Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-delaware-us-sample-784475",
+  "sample_asset_name": "beamstation_784475_restaurants-us-de_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/784475/beamstation_784475_restaurants-us-de_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "715d50381f0001253dc75157f00bcc8170b7f42cf88ac57d4e7c1f534432fbca",
+  "sample_size_bytes": 36761,
+  "total_records": 50
+}
