@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Delaware, US",
-  "export_job_id": "1e6943e9-c5c4-49cf-90e3-618286ab89b3",
+  "export_job_id": "30eb56d4-5a7b-4589-adf5-f4828344b7c0",
   "github_org": "Beamstation-Datasets",
   "id_short": 784475,
   "location_name": "Delaware",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-delaware-us-sample-784475",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/784475/beamstation_784475_restaurants-us-de_SAMPLE_DIST.csv",
-  "sample_pct": 9.8,
+  "sample_pct": 8.77,
   "sample_records": 5,
-  "sample_sha256": "885ed28a7422eca43785586fa6d29ac042fa8759cf0bed656fcdaada661784f5",
-  "sample_size_bytes": 37190,
-  "total_records": 51,
-  "updated_at": "2026-04-15T06:48:59.269713+00:00"
+  "sample_sha256": "a847e4308e96c9c37ebdde722c68db7c19a47ecae1b68e5b6409d6cfaf148c1f",
+  "sample_size_bytes": 31633,
+  "total_records": 57,
+  "updated_at": "2026-04-22T12:57:36.485304+00:00"
 }
