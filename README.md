@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Delaware, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `784475` |
 | Location | Delaware |
 | Category | Restaurants |
-| Full dataset size | 57 records |
-| Free sample size | 5 records (8.77%) |
-| Last export | 2026-04-22T12:57:36.485304+00:00 |
+| Full dataset size | 46 records |
+| Free sample size | 4 records (8.7%) |
+| Last export | 2026-04-29T13:46:57.975555+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-delaware-us-sample-784475/releases/download/sample-latest/beamstation_784475_restaurants-us-de_SAMPLE_DIST.csv) |
 
 ## What is in this sample
